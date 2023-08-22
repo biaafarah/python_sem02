@@ -1,13 +1,19 @@
-import logo from './logo.svg';
+import taylor from './img/taylor.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <div>
+          <h1>Minha primeira imagem</h1>
+          <img src={taylor} alt="Taylor Swift" className='img_taylor'/>
+        </div>
         <p>
           Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <p>
+          aprendendo react 
         </p>
         <a
           className="App-link"
