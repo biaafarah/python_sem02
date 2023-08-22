@@ -1,0 +1,12 @@
+componentes reutilizáveis 
+
+ node_modules
+ public -> código html
+ src -> App CSS e App JS!! -> codigo real
+Documento Package.JSON 
+
+Node.JS -> versão LTS -> 
+
+1. baixar node 
+2. node -v npm -v
+3. npx create-react-app C:\Users\logonrmlocal\python_sem02-1\Javascript\8-22 (nome da pasta)
